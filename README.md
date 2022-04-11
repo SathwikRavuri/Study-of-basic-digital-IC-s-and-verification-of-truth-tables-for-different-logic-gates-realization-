@@ -86,11 +86,12 @@ xnor(y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable
+![1](https://user-images.githubusercontent.com/103410316/162684425-08aa6619-99ca-41a0-89db-928d7da1b0bd.png)
 
 ## RTL realization 
 
 ## Output:
-![1](https://user-images.githubusercontent.com/103410316/162684425-08aa6619-99ca-41a0-89db-928d7da1b0bd.png)
+
 ![2](https://user-images.githubusercontent.com/103410316/162684457-e59bce4f-a9e6-4c14-9cbd-20d28408a5da.png)
 
 
